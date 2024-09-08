@@ -1,0 +1,163 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+
+html, body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:16px;
+    color:darkgray;
+}
+
+.container{
+    width:1300px;
+    margin:0px auto;
+
+}
+
+.main-section{
+    width:100%;
+    float:left;
+    padding:70px 0px 70px 0px;
+}
+
+.heading{
+    font-size:28px;
+    font-weight:500;
+    border-bottom:1px solid #46b7c1;
+    margin-bottom:20px;
+    color:#46b7c1;
+}
+
+.header{
+    background:rgb(56, 56, 51);
+    padding:6px;
+}
+
+.header b{
+    background:rgb(248, 247, 247);
+    color:rgb(236, 23, 23);
+    padding : 10px;
+    font-size:20px;
+}
+
+.header marquee{
+    font-size:20px;
+    color:#fff;
+    width:80%;
+}
+
+.logo{
+    height:1px;
+    padding:5px;
+}
+
+nav{
+    float:right;
+    padding:25px 0px;
+}
+
+nav a{
+    color:black;
+    text-decoration: none;
+    font-size:18px;
+    padding:2px 10px;
+    font-weight: 500;
+
+}
+
+.slider img{
+    width:100%;
+}
+
+.event{
+    width:32%;
+    margin-right:0.5%;
+    float:left;
+    background-color:#fff;
+    padding:10px;
+}
+
+.event .heading{
+    border-bottom:1px solid #46b7c1;
+    padding:5px;
+    color:#fff;
+    background:#46b7c1;
+    text-align:center;
+
+}
+
+.about-us div{
+    width:45%;
+    float:left;
+    line-height:30px;
+    font-size:18px;
+
+}
+
+.about-us h4{
+    font-size:22px;
+
+}
+
+.about-us p{
+    line-height:42px;
+}
+
+.about-us img{
+    width:40%;
+    float:left;
+    size:0cap;
+}
+
+.award p{
+    width:100%;
+    float:left;
+    font-size:16px;
+
+}
+.award img{
+    width:100%;
+}
+
+.award b{
+    min-width:115px;
+    float:left;
+    margin-bottom:20px;
+}
+
+.award h3{
+    font-size:23px;
+    margin-bottom:20px;
+    text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
